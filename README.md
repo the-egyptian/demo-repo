@@ -8,3 +8,7 @@ from a youtube tutorial.
 ## note
 
 this change from VSCode
+
+## Local Development
+
+1. open index.html in your browser
